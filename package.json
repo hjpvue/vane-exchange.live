@@ -1,0 +1,18 @@
+{
+  "name": "vane_exchange_live",
+  "version": "2.0.0",
+  "description": "Digital presence and business scaffolding for vane-exchange.live, a sub-division of Terragr.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "flash"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hjpvue/vane_exchange_live"
+  },
+  "keywords": [
+    "vel"
+  ],
+  "author": "HJP",
+  "license": "ISC"
+}
